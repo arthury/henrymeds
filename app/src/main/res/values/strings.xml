@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Reservation</string>
+    <string name="provider_add_schedule">Provider - Add schedule</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_date">Select date</string>
+    <string name="select_time">Select time</string>
+    <string name="select_start_time">Select start time</string>
+    <string name="select_end_time">Select end time</string>
+    <string name="submit">Submit</string>
+    <string name="client_list_availability">Client - List availability</string>
+    <string name="client_reserve_slot">Client - Reserve slot</string>
+    <string name="client_confirm_reservation">Client - Confirm reservation</string>
+    <string name="provider_id">Provider ID</string>
+    <string name="client_id">Client ID</string>
+    <string name="submitted">Submitted</string>
+    <string name="no_appointments_available">No appointments available</string>
 </resources>
